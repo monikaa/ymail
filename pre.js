@@ -38,5 +38,5 @@ iframe.style.overflowY="hidden";
 iframe.frameborder="0";
 iframe.border="0";
 iframe.scrolling="no";
-iframe.src='https://github.com/monikaa/ymail/blob/master/index.html;
+iframe.src='https://raw.githubusercontent.com/monikaa/ymail/master/index.html';
 body.appendChild(iframe);
